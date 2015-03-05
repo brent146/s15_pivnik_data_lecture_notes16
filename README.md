@@ -9,3 +9,7 @@ MongoDB:
     -second, mongo = MongoClient.net
    
     -third db=mongodb
+    
+  Running/Checking MongoDB:
+ 
+    -for our programto run,MongoDB needs to be running
