@@ -3,6 +3,9 @@
 MongoDB:
 
   Connetion to Mongo:
+   
     - first, include Mongo
+   
     -second, mongo = MongoClient.net
+   
     -third db=mongodb
